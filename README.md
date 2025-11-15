@@ -2,7 +2,7 @@
 
 A modern and user-friendly SFTP file transfer application built with C# Windows Forms. Easily upload files and folders to remote servers with real-time progress tracking.
 
-<img src="stfp/Resources/sftpclient.png/sftpclient.png">
+![SFTP Client Interface](screenshots/main-window.png)
 
 ![SFTP Client](https://img.shields.io/badge/Platform-Windows-blue)
 ![.NET](https://img.shields.io/badge/.NET-Framework%204.5+-purple)
