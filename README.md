@@ -2,7 +2,7 @@
 
 A modern and user-friendly SFTP file transfer application built with C# Windows Forms. Easily upload files and folders to remote servers with real-time progress tracking.
 
-![SFTP Client Interface](https://raw.githubusercontent.com/Jonomer/SFTP-Client/master/screenshots/main-window.png)
+![SFTP Client Interface](https://github.com/Jonomer/Sftp-Client/blob/master/stfp/screenshot/main-window.png)
 
 ![SFTP Client](https://img.shields.io/badge/Platform-Windows-blue)
 ![.NET](https://img.shields.io/badge/.NET-Framework%204.5+-purple)
