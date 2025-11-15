@@ -18,15 +18,23 @@ A modern and user-friendly SFTP file transfer application built with C# Windows 
 - 🔄 **Recursive Folder Upload** - Upload folders with all subdirectories
 - 🖱️ **Drag & Drop Support** - Easy file selection
 
-## 🛠 Requirements
+## 📥 Download
 
-- **.NET Framework 4.5** or higher
-- **Visual Studio 2019** or later (for development)
-- **Renci.SshNet** NuGet package
+### Standalone Executable
+Download the latest release from the [Releases page](https://github.com/Jonomer/SFTP-Client/releases/latest).
 
-## 📦 Installation
+**SFTP-Client.exe** - Portable version, no installation required
 
-### Method 1: Clone and Build
+### System Requirements
+- Windows 10/11
+- .NET Framework 4.5+
+- No additional dependencies required
+
+### Method 1: Executable (Recommended)
+1. Download `SFTP-Client.exe` from releases
+2. Run directly - no installation needed
+
+### Method 2: Build from Source
 ```bash
 git clone https://github.com/Jonomer/SFTP-Client.git
 cd SFTP-Client
